@@ -1,0 +1,16 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-stylesheet type="text/xsl" href="foaf.xslt"?>
+ <rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<foaf:Person>
+<foaf:name>Hamza Hannani</foaf:name>
+<foaf:title>M.</foaf:title>
+<foaf:givenName>Hamza</foaf:givenName>
+<foaf:familyName>Hannani</foaf:familyName>
+<foaf:mbox rdf:resource="mailto:hamza.hannani.hh@gmail.com"/>
+ <foaf:homepage rdf:resource="https://github.com/Hamza54321/hamza.github.io/"/>
+</foaf:Person>
+</rdf:RDF>
